@@ -461,6 +461,30 @@ assets:
   language: 
   isSwizzled: false
   index: 0
+- name: remastered\map\hb05.map\-24.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\map\hb05.map\-24.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
 - name: remastered\map\hb05.map\-62.dds
   method: copy
   platform: pc
@@ -516,6 +540,150 @@ assets:
   multi: 
   source:
   - name: remastered\map\hb05.map\-78.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\map\tt13.map\-34.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\map\tt13.map\-34.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\map\tt37.map\-12.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\map\tt37.map\-12.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\map\tt37.map\-17.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\map\tt37.map\-17.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\map\tt37.map\-18.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\map\tt37.map\-18.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\map\tt37.map\-19.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\map\tt37.map\-19.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\map\tt37.map\-20.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\map\tt37.map\-20.dds
     method: 
     platform: 
     package: 
