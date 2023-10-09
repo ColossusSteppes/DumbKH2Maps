@@ -701,7 +701,7 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-  - name: remastered\obj\B_EX370.mdlx\-7.dds
+- name: remastered\obj\B_EX370.mdlx\-7.dds
   method: copy
   platform: pc
   package: kh2_fifth
